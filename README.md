@@ -1,2 +1,4 @@
 # SurveyForm
-This is a basic survey form.
+This is a basic survey form layout without Javascript.
+
+JavaScript will be updated.
